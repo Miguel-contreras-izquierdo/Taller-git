@@ -7,3 +7,8 @@ ModificaciónBien2
 ModificacionBien3
 
 ModificacionMal4
+
+ModificaciónMal5
+
+ModificaciónBien6
+
